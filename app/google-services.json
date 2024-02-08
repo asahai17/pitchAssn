@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482277174602",
+    "project_id": "pitch-catalyst-assignmen-fb873",
+    "storage_bucket": "pitch-catalyst-assignmen-fb873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482277174602:android:5b19a1fab1edf821afe5b3",
+        "android_client_info": {
+          "package_name": "com.consumers.pitchcatalystassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAuLgGbjKExlz4JUGcf6k-j2TOAb0uHtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
